@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey, I'm Sophy👋
 
-<!--
-**snasambu/snasambu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Back-End Web Developer, currently enrolled in the ALX Web Development Programme. I'm learning to build scalable, secure back-end applications using Python and Django, while also creating clean wireframes and UI concepts with Figma and Canva.
 
-Here are some ideas to get you started:
+🔧 Tech & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, JavaScript
+Back-End:  Django, Flask, Node.js (learning)
+Databases: MySQL, MongoDB
+Tools:     Git, GitHub, Docker, Figma, Canva
+
+🚀 Featured Projects
+
+📒 Notebook App: A simple, interactive online note-taking app 
+🌐 [Try it on Youware] https://nsrhenkccv.app.youware.com/
+   
+🎨 Portfolio Wireframe: UI layout for a simple wireframe portfolio   
+🖼️ [View on Figma]  https://www.figma.com/design/NOGDf8Dru1Po55CHs41J2c/Simple-Portfolio-Wireframe?node-id=5-41&t=IacWtIniV96hxTiG-1
+📎  [View on Canva]   https://www.canva.com/design/DAGnnS6X1hY/XGVGOh_9-q7qD5H0lZqjYQ/edit?utm_content=DAGnnS6X1hY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+Connect With Me
+
+Email: snasambu40@gmail.com
+
+
+
