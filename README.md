@@ -5,8 +5,11 @@ I am an aspiring Back-End Web Developer, currently enrolled in the ALX Web Devel
 🔧 Tech & Tools
 
 Languages: Python, JavaScript
+
 Back-End:  Django, Flask, Node.js (learning)
+
 Databases: MySQL, MongoDB
+
 Tools:     Git, GitHub, Docker, Figma, Canva
 
 🚀 Featured Projects
