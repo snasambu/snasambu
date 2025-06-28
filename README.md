@@ -27,7 +27,8 @@ Tools:     Git, GitHub, Docker, Figma, Canva
 
 Connect With Me
 
-Email: snasambu40@gmail.com
+LinkedIn: https://www.linkedin.com/in/sophy-mukhwana-7b80071b6
+Email:    snasambu40@gmail.com                                                                                                                           
 
 
 
